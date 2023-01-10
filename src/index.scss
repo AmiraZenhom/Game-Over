@@ -1,0 +1,19 @@
+@import url('http://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@300&display=swap');
+$bgColor:#272b30;
+$lightBgColor:#32383e;
+$bgTransParent:rgba(19,91,117,0.6);
+$fontColor:#fff;
+$borderColor: #a8a8a83d;
+$borderHeight:1px;
+$secondFontColor:#377feb;
+
+body {
+ background: $bgColor ;
+ color:$fontColor;
+ 
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
